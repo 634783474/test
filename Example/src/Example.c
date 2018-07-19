@@ -13,8 +13,8 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
-	puts("this is a test for git.");
-	puts("third modify for test.");
-	puts("cloud ");
+	//puts("this is a test for git.");
+	//puts("third modify for test.");
+	//puts("cloud ");
 	return EXIT_SUCCESS;
 }
